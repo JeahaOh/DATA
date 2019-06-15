@@ -153,6 +153,10 @@ as와 is
 ---------------------------------
 R 3.6.0 설치.  
 R Studio Desktop OpenSourceLicence 설치.  
+R Studio Theme
+- install.packages("devtools")
+- devtools::install_github("bkam235/ThemeSwitcher")
 ------------------------------------
+통계학의 단어들 개념만 알아와라..
 
 

@@ -179,3 +179,4 @@ order(x) # 오름차순 순서
 order(x, decreasing = T)
 x[order(x)]
 # order 어디에 쓰는거임?
+
